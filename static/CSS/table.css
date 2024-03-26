@@ -1,0 +1,8 @@
+table{
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}
+th{
+    padding: 40px;
+}
